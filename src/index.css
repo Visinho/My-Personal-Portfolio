@@ -87,6 +87,7 @@ a:hover {
     border-radius: 0.4rem;
     cursor: pointer;
     border: 1px solid var(--transition);
+    transition: var(--transition);
 }
 
 .btn:hover {

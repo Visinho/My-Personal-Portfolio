@@ -1,11 +1,18 @@
 import React from 'react';
 import "./header.css";
+import CTA from './CTA';
 
 const Header = () => {
   return (
-    <div>
-      Header
-    </div>
+    <header>
+      <div className="container header__container">
+        <h5>Hello, My name is</h5>
+        <h1>Elvis Njoku</h1>
+        <h5 className="text-light">Fullstact Developer</h5>
+        <CTA />
+      </div>
+    </header>
+
   )
 }
 
