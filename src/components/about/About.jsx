@@ -39,7 +39,7 @@ const About = () => {
           
           <p>
             As a full-stack JavaScript developer, I have the expertise to handle both front-end and back-end development using the JavaScript programming language. On the front-end, I am skilled in HTML, CSS, and JavaScript, allowing me to create dynamic and responsive user interfaces. With proficiency in the React framework, I can develop interactive web pages with ease.
-            When it comes to the back-end, I excel in server-side programming using frameworks like Node.js. I am experienced in designing and optimizing databases using MongoDB, MySQL, or PostgreSQL. Leveraging my knowledge of RESTful APIs, I can seamlessly connect the front-end and back-end components of an application.
+            When it comes to the back-end, I excel in server-side programming using frameworks like Node.js/Nest.js. I am experienced in designing and optimizing databases using MongoDB, MySQL, or PostgreSQL. Leveraging my knowledge of RESTful APIs, I can seamlessly connect the front-end and back-end components of an application.
             I am well-versed in version control systems like Git, which enables me to collaborate efficiently with other developers. Additionally, I am familiar with deployment strategies and cloud platforms like AWS and Heroku, ensuring smooth deployment and scalability of applications.
             Being a full-stack JavaScript developer empowers me to work on diverse layers of an application, providing end-to-end solutions with proficiency and effectiveness.
           </p>
