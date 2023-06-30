@@ -29,6 +29,7 @@ header {
     position: absolute;
     left: 0;
     bottom: 3rem;
+    color: var(--color-light);
 }
 
 /* Creating the line under the Header socials */
