@@ -40,6 +40,10 @@
     color: var(--color-primary);
 }
 
+.marginPush {
+    margin-bottom: 2rem;
+}
+
 /* Media Queries (Medium devices) */
 
 @media screen and (max-width: 1024px) {
