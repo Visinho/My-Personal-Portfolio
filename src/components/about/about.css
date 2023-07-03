@@ -93,6 +93,11 @@
 
     .about__content {
         margin-top: 5rem;
+        padding: 1rem;
+    }
+
+    .styled {
+        padding: 2rem;
     }
  }
  

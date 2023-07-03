@@ -17,27 +17,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Web App development</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Web Development Support & Maintenance</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Web Hosting</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Web Optimization</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
-            </li>
-            <li>
-              <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Web Product Design</p>
             </li>
           </ul>
         </article>
@@ -49,27 +45,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Web Preparation</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Web Testing</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Automated Web Deployment on different platforms</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Big data management</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
-            </li>
-            <li>
-              <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>IoT integration</p>
             </li>
           </ul>
         </article>
@@ -81,27 +73,23 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Copy writing</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Graphic Design</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Marketing Services</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>Blog Writing</p>
             </li>
             <li>
               <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
-            </li>
-            <li>
-              <BsFillEnvelopeCheckFill className='service__list-icon'/>
-              <p>Figma Design</p>
+              <p>White Paper/eBook Creation</p>
             </li>
           </ul>
         </article>
