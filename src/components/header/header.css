@@ -64,7 +64,7 @@ header {
 .styling {
     position: inherit;
     width: 525px;
-    height: 350px;
+    height: 550px;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -87,6 +87,14 @@ header {
    header {
     height: 100vh;
    }
+
+   .header__socials {
+    padding: 1rem;
+   }
+
+   .scroll__down {
+    padding: 1rem;
+   }
 }
 
 /* Media Queries (Small devices) */
@@ -96,6 +104,6 @@ header {
     height: 100vh;
    }
    .header__socials {
-    display: none;
+    padding: 0.1rem;
    }
 }
