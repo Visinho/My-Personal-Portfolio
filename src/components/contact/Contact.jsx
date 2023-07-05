@@ -32,7 +32,7 @@ const Contact = () => {
             </article>
           </div>
 
-          <form action=''>
+          <form action='https://formsubmit.co/e174411721093525fc1c2563c0a38a59' method='POST'>
             <input type='text' name='name' placeholder='Your Full Name' required/>
             <input type='email' name='email' placeholder='Your Email' required/>
             <textarea name='message' rows={7} placeholder='Your Message' required></textarea>
