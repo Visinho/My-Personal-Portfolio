@@ -60,7 +60,8 @@ input, textarea {
 
 /* Media Queries (Medium devices) */
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) { */
+ @media screen and (min-width: 481px) and (max-width: 1023px) {
     .container.contact__container {
         grid-template-columns: 1fr;
         gap: 2rem;
@@ -69,8 +70,10 @@ input, textarea {
  
  /* Media Queries (Small devices) */
  
- @media screen and (max-width: 600px) {
+ /* @media screen and (max-width: 600px) { */
+ @media screen and (min-width: 320px) and (max-width: 480px) {
     .container.contact__container {
         width: var(--container-width-sm);
     }
  }
+ 
