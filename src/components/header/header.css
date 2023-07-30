@@ -103,7 +103,7 @@ header {
    header {
     height: 100vh;
    }
-   .header__socials {
+   /* .header__socials {
     padding: 0.1rem;
-   }
+   } */
 }
